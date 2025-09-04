@@ -1,5 +1,9 @@
 # Lab 16.1: Full-Stack Integration Analysis
 
+[Karl Johnson](https://github.com/hirekarl)  
+2025-RTT-30  
+<time datetime="2025-09-04">2025-09-04</time>  
+
 ## Assignment
 ### Scenario
 Your team has been discussing the architecture for your new MERN stack application. While the core technologies are decided, the practical details of how the React client and Express server will communicate are still being debated. Key concerns have been raised about Cross-Origin Resource Sharing (CORS), managing environment variables securely, and choosing the right data-fetching strategy.
